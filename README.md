@@ -1,2 +1,3 @@
 # blockers-pl-eth
-User blockers in Protocol labs and Ethereum, eco systems
+User blockers in hackfs ecosystems
+A virtual Hackathon by ETHGlobal and Protocol Labs. Jul 6 - Aug 6, 2020
